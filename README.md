@@ -1,6 +1,6 @@
 
 Tech Stack:
-Svelte & Svelte Kit: Lightning-fast frontend development.
+Svelte & Svelte Kit: Lightning-fast frontend development <br>
 Tailwind CSS: Stylish and responsive design made easy.
 Local Storage: Seamless data retention to keep your tasks even after a reload.
 
